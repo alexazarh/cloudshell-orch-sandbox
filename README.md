@@ -1,1 +1,2 @@
-# cloudshell-orch-sandbox
+# cloudshell.orch.core
+Base package for common orchestration script functions
